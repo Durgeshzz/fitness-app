@@ -1,7 +1,7 @@
 {
   "name": "fitness-project",
   "version": "0.1.0",
-  "homepage": "https://Durgeshzz.github.io/fitness-app",
+  "homepage": "https://durgeshzz.github.io/fitness-app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
